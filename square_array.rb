@@ -1,5 +1,6 @@
-def square_array(numbers)  [1,2,3] 
-square array.each do |num| num ** 2}|
+def array_sqare (numbers) = [1, 2, 3, 4, 5]
+new_numbers_array []
+numbers.each do |num|
+puts num *2
 end 
-
   
